@@ -65,7 +65,7 @@ class User2Controller extends Controller
      */
     public function destroy($id)
     {
-        //
+        //something zui zẻ
     }
 
     /**
